@@ -1,0 +1,5 @@
+/home/chengyongtao/VScode/MysqlConnectionPool/build/CMakeFiles/rebuild_cache.dir
+/home/chengyongtao/VScode/MysqlConnectionPool/build/CMakeFiles/edit_cache.dir
+/home/chengyongtao/VScode/MysqlConnectionPool/build/src/CMakeFiles/rebuild_cache.dir
+/home/chengyongtao/VScode/MysqlConnectionPool/build/src/CMakeFiles/edit_cache.dir
+/home/chengyongtao/VScode/MysqlConnectionPool/build/src/CMakeFiles/connection.dir

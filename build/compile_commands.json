@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/chengyongtao/VScode/MysqlConnectionPool/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/MysqlConnectionPool/include  -g   -std=gnu++11 -o CMakeFiles/connection.dir/connection.cpp.o -c /home/chengyongtao/VScode/MysqlConnectionPool/src/connection.cpp",
+  "file": "/home/chengyongtao/VScode/MysqlConnectionPool/src/connection.cpp"
+},
+{
+  "directory": "/home/chengyongtao/VScode/MysqlConnectionPool/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/MysqlConnectionPool/include  -g   -std=gnu++11 -o CMakeFiles/connection.dir/connectionPool.cpp.o -c /home/chengyongtao/VScode/MysqlConnectionPool/src/connectionPool.cpp",
+  "file": "/home/chengyongtao/VScode/MysqlConnectionPool/src/connectionPool.cpp"
+},
+{
+  "directory": "/home/chengyongtao/VScode/MysqlConnectionPool/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/MysqlConnectionPool/include  -g   -std=gnu++11 -o CMakeFiles/connection.dir/main.cpp.o -c /home/chengyongtao/VScode/MysqlConnectionPool/src/main.cpp",
+  "file": "/home/chengyongtao/VScode/MysqlConnectionPool/src/main.cpp"
+}
+]
